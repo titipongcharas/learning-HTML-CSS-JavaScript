@@ -1,3 +1,5 @@
+@media (min-width: 992px) {
+
 .div_head{
     margin-top: 50px;
     text-align: center;
@@ -8,6 +10,7 @@
     background-color: rgb(123, 123, 123);
     color: aliceblue;
     position: relative;
+    display: inline-block;
 
     border: 3px solid black;
 
@@ -27,4 +30,5 @@
 }
 .con_article{
     position: relative;
+}
 }
