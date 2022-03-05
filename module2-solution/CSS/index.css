@@ -102,9 +102,6 @@ div{
   text-decoration: none;
  }
 
-.nav-visible{
-  display: none;
-}
 
 @media (min-width: 992px) {
     
